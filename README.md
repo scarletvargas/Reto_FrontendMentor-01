@@ -21,7 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot.png)
+
+
+
+<p align="center">
+  <img src="./images/Screenshot2.png">
+</p>
 
 
 ## My process
